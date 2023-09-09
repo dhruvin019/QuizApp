@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/QuizApp/static/css/main.cfacc3ab.css",
+    "main.js": "/QuizApp/static/js/main.38b25014.js",
+    "static/media/KBC-Set.webp": "/QuizApp/static/media/KBC-Set.91af84a68928c1d51fac.webp",
+    "index.html": "/QuizApp/index.html",
+    "main.cfacc3ab.css.map": "/QuizApp/static/css/main.cfacc3ab.css.map",
+    "main.38b25014.js.map": "/QuizApp/static/js/main.38b25014.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfacc3ab.css",
+    "static/js/main.38b25014.js"
+  ]
+}
